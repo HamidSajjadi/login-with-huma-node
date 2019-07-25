@@ -3,9 +3,6 @@
 
 This package implements server side requests for login with Huma process.
 
-**Table of Contents**
-
-[TOC]
 ## Installing
 
 npm:
