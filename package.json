@@ -1,6 +1,6 @@
 {
   "name": "login-with-huma-node",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Node.js package for huma auth server endpoints for third party clients to help authenticate users with their huma account",
   "main": "index.js",
   "scripts": {
